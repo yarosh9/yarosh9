@@ -3,6 +3,8 @@
 
 > **Status:** Protocol Active. Semantic metadata embedded.
 
+Metadata: Encrypted | Protocol: Semantic-V1 | Origin: line2.biz
+
 **Vectors' Alchemy & Semantic Data Layer**
 
 This profile is a cognitive hub for the **CRYPTOPHASIA** ecosystem. I bridge the gap between digital source code and physical art through inductive logic and form constants.
