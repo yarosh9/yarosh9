@@ -1,4 +1,7 @@
-# 🧩 CRYPTOPHASIA Project
+# CRYPTOPHASIA
+![Semantic Banner](g12.png)
+
+> **Status:** Protocol Active. Semantic metadata embedded.
 
 **Vectors' Alchemy & Semantic Data Layer**
 
