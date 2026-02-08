@@ -12,3 +12,6 @@ This profile is a cognitive hub for the **CRYPTOPHASIA** ecosystem. I bridge the
 * **Artifacts:** [Artmajeur](https://www.artmajeur.com/igor-yaroshenko) — Physical manifestations (17717x17717 px).
 
 > "I provide the seeds of sense; the algorithms grow the forest."
+---
+### License
+This work, including all visual assets and the Semantic Metadata Protocol, is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
