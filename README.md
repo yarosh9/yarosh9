@@ -1,5 +1,5 @@
 # CRYPTOPHASIA
-![Semantic Banner](g12.png)
+![CRYPTOPHASIA Semantic Banner](g12.png)
 
 > **Status:** Protocol Active. Semantic metadata embedded.
 
