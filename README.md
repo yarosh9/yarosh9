@@ -10,7 +10,7 @@ Metadata: Encrypted | Protocol: Semantic-V1 | Origin: line2.biz
 This profile is a cognitive hub for the **CRYPTOPHASIA** ecosystem. I bridge the gap between digital source code and physical art through inductive logic and form constants.
 
 * **Code:** [svg-gradients_01](https://github.com/yarosh9/svg-gradients_01) — The raw semantic layer.
-* **Logic:** [line2.biz](http://line2.biz) — The Labyrinth interface.
+* **Logic:** [line2.biz](http://line2.biz) — The Provenance Layer.
 * **Artifacts:** [Artmajeur](https://www.artmajeur.com/igor-yaroshenko) — Physical manifestations (17717x17717 px).
 
 > "I provide the seeds of sense; the algorithms grow the forest."
