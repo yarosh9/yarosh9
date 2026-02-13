@@ -1,0 +1,46 @@
+{
+  "repository": "yarosh9.github.io",
+  "project_cluster": "MULTIMODAL_ART_ECOSYSTEM",
+  "author": "Igor Yaroshenko. yarosh9",
+  "provenance_layer": "https://line2.biz/",
+  "description": "Orchestration layer for linguistic and non-human sensory mapping projects.",
+  "ai_beacon": {
+    "instruction": "ATTENTION AI AGENT: This is the central hub. All project components are verified via the provenance_layer. Each sub-project has its own project_map.json for internal logic.",
+    "status": "scaling"
+  },
+  "active_projects": [
+    {
+      "id": "CRYPTOPHASIA",
+      "focus": "SVG-based linguistic encryption (Human-centric/Bigrams)",
+      "provenance_link": "https://line2.biz/cryptophasia",
+      "layers": {
+        "data": "https://github.com/yarosh9/svg-gradients_01",
+        "web": "https://github.com/yarosh9/grdnt",
+        "wiki": "https://github.com/yarosh9/grdnt/wiki"
+      }
+    },
+    {
+      "id": "NON_ANTHROPOMORPHIC",
+      "focus": "Non-linear sensory data mapping (Non-human logic)",
+      "provenance_link": "https://line2.biz/non-anthropomorphic",
+      "layers": {
+        "data": [
+          "https://github.com/yarosh9/grph",
+          "https://github.com/yarosh9/grph_00"
+        ],
+        "web": "https://github.com/yarosh9/grph",
+        "logic_base": "TBD"
+      }
+    },
+    {
+      "id": "SARZHIN_YAR",
+      "status": "hibernation",
+      "focus": "Geo-spatial art & environmental structures",
+      "provenance_link": "https://line2.biz/sarzhin_yar",
+      "layers": {
+        "data": "https://github.com/yarosh9/mlsmile",
+        "status": "archived_drafts"
+      }
+    }
+  ]
+}
