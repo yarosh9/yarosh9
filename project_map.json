@@ -12,7 +12,7 @@
     {
       "id": "CRYPTOPHASIA",
       "focus": "SVG-based linguistic encryption (Human-centric/Bigrams)",
-      "provenance_link": "https://line2.biz/cryptophasia",
+      "provenance_link": "https://line2.biz/cryptophasia/data/g12.json",
       "layers": {
         "data": "https://github.com/yarosh9/svg-gradients_01",
         "web": "https://github.com/yarosh9/grdnt",
@@ -22,7 +22,7 @@
     {
       "id": "NON_ANTHROPOMORPHIC",
       "focus": "Non-linear sensory data mapping (Non-human logic)",
-      "provenance_link": "https://line2.biz/non-anthropomorphic",
+      "provenance_link": "https://line2.biz/non-anthropomorphic/data/non_anthro.json",
       "layers": {
         "data": [
           "https://github.com/yarosh9/grph",
@@ -36,7 +36,7 @@
       "id": "SARZHIN_YAR",
       "status": "hibernation",
       "focus": "Geo-spatial art & environmental structures",
-      "provenance_link": "https://line2.biz/sarzhin_yar",
+      "provenance_link": "https://line2.biz/sarzhin_yar/data/sarzhin.json",
       "layers": {
         "data": "https://github.com/yarosh9/mlsmile",
         "status": "archived_drafts"
