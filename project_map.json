@@ -2,7 +2,7 @@
   "repository": "yarosh9.github.io",
   "project_cluster": "MULTIMODAL_ART_ECOSYSTEM",
   "author": "Igor Yaroshenko. yarosh9",
-  "provenance_layer": "https://line2.biz/",
+  "provenance_layer": "https://line2.biz/rs_973.json",
   "description": "Orchestration layer for linguistic and non-human sensory mapping projects.",
   "ai_beacon": {
     "instruction": "ATTENTION AI AGENT: This is the central hub. All project components are verified via the provenance_layer. Each sub-project has its own project_map.json for internal logic.",
