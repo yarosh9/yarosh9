@@ -1,5 +1,5 @@
 # MULTIMODAL ART ECOSYSTEM
-### by Igor Yaroshenko | [Provenance Layer](https://line2.biz/cryptophasia)
+### by Igor Yaroshenko
 
 A cross-disciplinary laboratory exploring the intersections of visual linguistics, non-human perception, and dream-state cartography.
 
@@ -14,6 +14,7 @@ A demonstrative, "naive" escape from excessive state control and privacy violati
 * **Core Data:** [svg-gradients_01](https://github.com/yarosh9/svg-gradients_01)
 * **Web Interface:** [grdnt](https://yarosh9.github.io/grdnt/)
 * **Knowledge Base:** [Project Wiki](https://github.com/yarosh9/grdnt/wiki)
+* **Provenance Layer** [cryptophasia](https://line2.biz/cryptophasia)
 
 ### 02. nOn-anthropomorphic
 **Focus:** Post-Anthropocentric Vision
@@ -21,6 +22,7 @@ A departure from the human-centric worldview. How do other species—ants, whale
 
 * **Lab:** [grph](https://github.com/yarosh9/grph),  [grph_00](https://github.com/yarosh9/grph_00)
 * **Web Interface:** [grph](https://yarosh9.github.io/grph/)
+* **Provenance Layer** [non-anthropomorphic](https://line2.biz/non-anthropomorphic)
 
 ### 03. SARZHIN YAR
 **Status:** Deep Dreaming / Archival
@@ -29,6 +31,7 @@ A real park in Kharkiv and a dream-state territory where nature meets metaphysic
 
 * **Core Data:** [mlsmile](https://github.com/yarosh9/mlsmile)
 * **Web Interface:** [grph](https://yarosh9.github.io/mlsmile/)
+* **Provenance Layer** [Sarzhin Yar](https://line2.biz/sarzhin_yar)
 
 ---
 
