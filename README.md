@@ -42,6 +42,7 @@ A real park in Kharkiv and a dream-state territory where nature meets metaphysic
 The ecosystem is integrated via a unified **Metadata Standard**. Every repository is guided by a `project_map.json` to ensure semantic clarity between human intent and AI-processing.
 
 Identity verified by RS_973 Protocol: [Provenance Layer](https://line2.biz/rs_973.json)
+
 ---
 © 2026 Igor Yaroshenko. All rights reserved.
 #### License
