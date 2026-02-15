@@ -1,3 +1,5 @@
+![Preview](g12.png)
+
 # MULTIMODAL ART ECOSYSTEM
 ### by Igor Yaroshenko 
 [author verification](https://line2.biz/about_me.json)
