@@ -20,7 +20,7 @@ A demonstrative, "naive" escape from excessive state control and privacy violati
 A departure from the human-centric worldview. How do other species—ants, whales, crows—perceive our world? This project explores their "vision" of our insane industrial structures and urban landscapes, echoing the themes of Stanislaw Lem’s *Solaris*. It is an attempt to visualize the incomprehensible.
 
 * **Lab:** [grph](https://github.com/yarosh9/grph),  [grph_00](https://github.com/yarosh9/grph_00)
-* **Web Interface:** [grph](https://yarosh9.github.io/grph/))
+* **Web Interface:** [grph](https://yarosh9.github.io/grph/)
 
 ### 03. SARZHIN YAR
 **Status:** Deep Dreaming / Archival
@@ -28,6 +28,7 @@ A departure from the human-centric worldview. How do other species—ants, whale
 A real park in Kharkiv and a dream-state territory where nature meets metaphysics. A place where water flows free and crows bring gifts. Influenced by C.G. Jung's dream analysis, this project translates oneiric spaces into vector geometry. It is an exercise in mastering the Bézier curve to map the architecture of dreams.
 
 * **Core Data:** [mlsmile](https://github.com/yarosh9/mlsmile)
+* **Web Interface:** [grph](https://yarosh9.github.io/mlsmile/)
 
 ---
 
