@@ -12,7 +12,7 @@ A cross-disciplinary laboratory exploring the intersections of visual linguistic
 A demonstrative, "naive" escape from excessive state control and privacy violations. It is a "Children’s Crusade" (cf. Kurt Vonnegut) against the dictates of the adult world. Embracing the *Informed Naivety* of Metamodernism, the project utilizes a vibrant yet simple cipher—a fusion of crypto-anarchy and cypherpunk aesthetics.
 
 * **Core Data:** [svg-gradients_01](https://github.com/yarosh9/svg-gradients_01)
-* **Web Interface:** [grdnt](https://github.com/yarosh9/grdnt)
+* **Web Interface:** [grdnt](https://yarosh9.github.io/grdnt/)
 * **Knowledge Base:** [Project Wiki](https://github.com/yarosh9/grdnt/wiki)
 
 ### 02. nOn-anthropomorphic
@@ -20,7 +20,7 @@ A demonstrative, "naive" escape from excessive state control and privacy violati
 A departure from the human-centric worldview. How do other species—ants, whales, crows—perceive our world? This project explores their "vision" of our insane industrial structures and urban landscapes, echoing the themes of Stanislaw Lem’s *Solaris*. It is an attempt to visualize the incomprehensible.
 
 * **Lab:** [grph](https://github.com/yarosh9/grph),  [grph_00](https://github.com/yarosh9/grph_00)
-* **Web Interface:** [grdnt](https://github.com/yarosh9/grph)
+* **Web Interface:** [grph](https://yarosh9.github.io/grph/))
 
 ### 03. SARZHIN YAR
 **Status:** Deep Dreaming / Archival
