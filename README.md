@@ -1,6 +1,6 @@
 # MULTIMODAL ART ECOSYSTEM
 ### by Igor Yaroshenko 
-[Verification Authority](https://line2.biz/about_me.json)
+[author verification](https://line2.biz/about_me.json)
 
 A cross-disciplinary laboratory exploring the intersections of visual linguistics, non-human perception, and dream-state cartography.
 
