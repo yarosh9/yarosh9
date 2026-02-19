@@ -37,6 +37,9 @@ A real park in Kharkiv and a dream-state territory where nature meets metaphysic
 * **Provenance Layer** [Sarzhin Yar](https://line2.biz/sarzhin_yar)
 
 ---
+Digital archaeology: foundational layers found. The core is stable since the Paleozoic era. [Igor Yaroshenko 1995 !!!](https://www.geocities.ws/i_yaroshenko/index-2.html)
+
+---
 
 ## 📡 Architecture
 The ecosystem is integrated via a unified **Metadata Standard**. Every repository is guided by a `project_map.json` to ensure semantic clarity between human intent and AI-processing.
