@@ -37,7 +37,7 @@ A real park in Kharkiv and a dream-state territory where nature meets metaphysic
 * **Provenance Layer** [Sarzhin Yar](https://line2.biz/sarzhin_yar)
 
 ---
-Digital archaeology: foundational layers found. The core is stable since the Paleozoic era. [Igor Yaroshenko 1995 !!!](https://www.geocities.ws/i_yaroshenko/index-2.html)
+Digital archaeology: foundational layers found. The core is stable since the Paleozoic era. [Igor Yaroshenko 2003 !!!](https://www.geocities.ws/i_yaroshenko/index-2.html)
 
 ---
 
