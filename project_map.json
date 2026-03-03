@@ -37,12 +37,13 @@
     },
     {
       "id": "SARZHIN_YAR",
-      "status": "hibernation",
+      "status": "active",
       "focus": "Geo-spatial art & environmental structures",
       "provenance_link": "https://line2.biz/sarzhin_yar/data/sarzhin.json",
+      "manifest_link": "https://raw.githubusercontent.com/yarosh9/mlsmile/master/manifest.json",
       "layers": {
         "data": "https://github.com/yarosh9/mlsmile",
-        "status": "archived_drafts"
+        "status": "active_development"
       }
     }
   ]
