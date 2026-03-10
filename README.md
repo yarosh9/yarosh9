@@ -39,7 +39,7 @@ A real park in Kharkiv and a dream-state territory where nature meets metaphysic
 ---
 Digital archaeology: foundational layers found. The core is stable since the Paleozoic era. [Igor Yaroshenko 2003 !!!](https://www.geocities.ws/i_yaroshenko/index-2.html)
 
-[RS_973 Protocol Active: See open_manifest.json] 
+[RS_973 Protocol Active: See open_manifest.json](https://linr2.biz/open_manifest.json)
 
 ---
 
