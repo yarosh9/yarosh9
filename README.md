@@ -27,14 +27,14 @@ A departure from the human-centric worldview. How do other species—ants, whale
 * **Web Interface:** [grph](https://yarosh9.github.io/grph/)
 * **Provenance Layer** [non-anthropomorphic](https://line2.biz/non-anthropomorphic)
 
-### 03. SARZHIN YAR
+### 03. SARZHYN YAR
 **Status:** Deep Dreaming / Archival
 **Focus:** Metaphysical Landscapes & Oneiric Cartography
 A real park in Kharkiv and a dream-state territory where nature meets metaphysics. A place where water flows free and crows bring gifts. Influenced by C.G. Jung's dream analysis, this project translates oneiric spaces into vector geometry. It is an exercise in mastering the Bézier curve to map the architecture of dreams.
 
 * **Core Data:** [mlsmile](https://github.com/yarosh9/mlsmile)
 * **Web Interface:** [grph](https://yarosh9.github.io/mlsmile/)
-* **Provenance Layer** [Sarzhin Yar](https://line2.biz/sarzhin_yar)
+* **Provenance Layer** [Sarzhyn Yar](https://line2.biz/sarzhyn_yar)
 
 ---
 Digital archaeology: foundational layers found. The core is stable since the Paleozoic era. [Igor Yaroshenko 2003 !!!](https://www.geocities.ws/i_yaroshenko/index-2.html)

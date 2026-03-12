@@ -17,9 +17,10 @@
         "https://line2.biz/cryptophasia/data/crpt.json"
       ],
       "layers": {
-        "data": "https://github.com/yarosh9/svg-gradients_01",
-        "web": "https://github.com/yarosh9/grdnt",
-        "wiki": "https://github.com/yarosh9/grdnt/wiki"
+        "data": "https://github.com/yarosh9/CRYPTOPHASIA",
+        "web": "https://yarosh9.github.io/CRYPTOPHASIA/",
+        "wiki": "https://github.com/yarosh9/CRYPTOPHASIA/wiki",
+        "status": "active_development"
       }
     },
     {
@@ -28,21 +29,24 @@
       "provenance_link": "https://line2.biz/non-anthropomorphic/data/non_anthro.json",
       "layers": {
         "data": [
-          "https://github.com/yarosh9/grph",
+          "https://github.com/yarosh9/NON_ANTHROPOMORPHIC",
           "https://github.com/yarosh9/grph_00"
         ],
-        "web": "https://github.com/yarosh9/grph",
-        "logic_base": "TBD"
+        "web": "https://yarosh9.github.io/NON_ANTHROPOMORPHIC",
+        "wiki": "https://github.com/yarosh9/NON_ANTHROPOMORPHIC/wiki",
+        "logic_base": "TBD",
+        "status": "active_development"
       }
     },
     {
-      "id": "SARZHIN_YAR",
-      "status": "active",
+      "id": "SARZHYN_YAR",
       "focus": "Geo-spatial art & environmental structures",
-      "provenance_link": "https://line2.biz/sarzhin_yar/data/sarzhin.json",
-      "manifest_link": "https://raw.githubusercontent.com/yarosh9/mlsmile/master/manifest.json",
+      "provenance_link": "https://line2.biz/sarzhyn_yar/data/sarzhyn.json",
+      "manifest_link": "https://raw.githubusercontent.com/yarosh9/SARZHYN_YAR/master/manifest.json",
       "layers": {
-        "data": "https://github.com/yarosh9/mlsmile",
+        "data": "https://github.com/yarosh9/SARZHYN_YAR",
+        "web": "https://yarosh9.github.io/SARZHYN_YAR",
+        "wiki": "https://github.com/yarosh9/SARZHYN_YAR/wiki",
         "status": "active_development"
       }
     }
