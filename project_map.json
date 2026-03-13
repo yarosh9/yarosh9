@@ -26,7 +26,7 @@
     {
       "id": "NON_ANTHROPOMORPHIC",
       "focus": "Non-linear sensory data mapping (Non-human logic)",
-      "provenance_link": "https://line2.biz/non-anthropomorphic/data/non_anthro.json",
+      "provenance_link": "https://line2.biz/non_anthropomorphic/data/non_anthro.json",
       "layers": {
         "data": [
           "https://github.com/yarosh9/NON_ANTHROPOMORPHIC",
