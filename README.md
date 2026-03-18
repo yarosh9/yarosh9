@@ -1,8 +1,10 @@
 ![Preview](g12.png)
 
-# MULTIMODAL ART ECOSYSTEM
+# MULTIMODAL ART ECOSYSTEM REPO
 ### by Igor Yaroshenko 
 [author verification](https://line2.biz/about_me.json)
+
+[author bio](https://line2.biz/meta_art_concepts/yarosh9_bio.txt) | [author cv](https://line2.biz/meta_art_concepts/yarosh9_cv.txt)
 
 A cross-disciplinary laboratory exploring the intersections of visual linguistics, non-human perception, and dream-state cartography.
 
@@ -10,36 +12,68 @@ A cross-disciplinary laboratory exploring the intersections of visual linguistic
 
 ## 🏛 Active Clusters
 
+### 00. GRADIENTS LIBRARY
+**Focus:** Experimental Visual Mathematics & SVG Optimization
+A generative laboratory for glitch-art synthesis and algorithmic gradients. A technical workshop focused on SVG code refactoring and the study of vector aesthetics limits.
+
+* **Core Data:** [GRDNT](https://github.com/yarosh9/grdnt/)
+* **Web Interface:** [grdnt web](https://yarosh9.github.io/grdnt/)
+* **Knowledge Base:** [grdnt wiki](https://github.com/yarosh9/grdnt/wiki/)
+
 ### 01. CRYPTOPHASIA
 **Focus:** Visual Linguistics & Informed Naive Encryption
-A demonstrative, "naive" escape from excessive state control and privacy violations. It is a "Children’s Crusade" (cf. Kurt Vonnegut) against the dictates of the adult world. Embracing the *Informed Naivety* of Metamodernism, the project utilizes a vibrant yet simple cipher—a fusion of crypto-anarchy and cypherpunk aesthetics.
+A technical and aesthetic response to state control. Utilizing the "Informed Naivety" of Metamodernism, the project employs a vibrant cipher system rooted in crypto-anarchy and cypherpunk traditions.
 
-* **Core Data:** [svg-gradients_01](https://github.com/yarosh9/svg-gradients_01)
-* **Web Interface:** [grdnt](https://yarosh9.github.io/grdnt/)
-* **Knowledge Base:** [Project Wiki](https://github.com/yarosh9/grdnt/wiki)
-* **Provenance Layer** [cryptophasia](https://line2.biz/cryptophasia)
+* **Core Data:** [CRYPTOPHASIA](https://github.com/yarosh9/CRYPTOPHASIA/)
+* **Web Interface:** [cryptophasia web](https://yarosh9.github.io/CRYPTOPHASIA/)
+* **Knowledge Base:** [cryptophasia wiki](https://github.com/yarosh9/CRYPTOPHASIA/wiki/)
+* **Provenance Layer:** [cryptophasia l2b](https://line2.biz/cryptophasia/)
 
-### 02. nOn-anthropomorphic
-**Focus:** Post-Anthropocentric Vision
-A departure from the human-centric worldview. How do other species—ants, whales, crows—perceive our world? This project explores their "vision" of our insane industrial structures and urban landscapes, echoing the themes of Stanislaw Lem’s *Solaris*. It is an attempt to visualize the incomprehensible.
+### 02. NON_ANTHROPOMORPHIC
+**Focus:** Post-Anthropocentric Visual Systems
+A departure from human-centric vision. Exploration of non-human perception (corvid, formicidae, cetacea) applied to industrial and urban landscapes.
 
-* **Lab:** [grph](https://github.com/yarosh9/grph),  [grph_00](https://github.com/yarosh9/grph_00)
-* **Web Interface:** [grph](https://yarosh9.github.io/grph/)
-* **Provenance Layer** [non-anthropomorphic](https://line2.biz/non-anthropomorphic)
+* **Core Data:** [NON_ANTHROPOMORPHIC](https://github.com/yarosh9/NON_ANTHROPOMORPHIC/)
+* **Web Interface:** [non_anthropomorphic web](https://yarosh9.github.io/non_anthropomorphic/)
+* **Knowledge Base:** [non_anthropomorphic wiki](https://github.com/yarosh9/NON_ANTHROPOMORPHIC/wiki/)
+* **Provenance Layer:** [non_anthropomorphic l2b](https://line2.biz/non_anthropomorphic/)
 
-### 03. SARZHYN YAR
-**Status:** Deep Dreaming / Archival
-**Focus:** Metaphysical Landscapes & Oneiric Cartography
-A real park in Kharkiv and a dream-state territory where nature meets metaphysics. A place where water flows free and crows bring gifts. Influenced by C.G. Jung's dream analysis, this project translates oneiric spaces into vector geometry. It is an exercise in mastering the Bézier curve to map the architecture of dreams.
+### 03. SARZHYN_YAR
+**Focus:** Oneiric Cartography & Vector Metaphysics
+Technical mapping of dream-state architecture and inter-species interaction zones. Translation of Jungian analytical concepts into precise Bézier geometry.
 
-* **Core Data:** [mlsmile](https://github.com/yarosh9/mlsmile)
-* **Web Interface:** [grph](https://yarosh9.github.io/mlsmile/)
-* **Provenance Layer** [Sarzhyn Yar](https://line2.biz/sarzhyn_yar)
+* **Core Data:** [SARZHYN_YAR](https://github.com/yarosh9/SARZHYN_YAR/)
+* **Web Interface:** [sarzhyn_yar web](https://yarosh9.github.io/SARZHYN_YAR/)
+* **Knowledge Base:** [sarzhyn_yar wiki](https://github.com/yarosh9/SARZHYN_YAR/wiki/)
+* **Provenance Layer:** [sarzhyn_yar l2b](https://line2.biz/sarzhyn_yar)
 
 ---
-Digital archaeology: foundational layers found. The core is stable since the Paleozoic era. [Igor Yaroshenko 2003 !!!](https://www.geocities.ws/i_yaroshenko/index-2.html)
 
-[RS_973 Protocol Active: See open_manifest.json](https://linr2.biz/open_manifest.json)
+## 📜 LOG: EVOLUTIONARY STRATA
+* **2026-03:** RS_973 Protocol Deployment. System architecture standardized.
+* **2025-10:** Digital archaeology: foundational layers found. The core is stable since the Paleozoic era. [Igor Yaroshenko 2003 !!!](https://www.geocities.ws/i_yaroshenko/index-2.html)
+* **2025-09:** Initial commit: CRYPTOPHASIA / NON_ANTHROPOMORPHIC.
+* **2003-05:** Foundational layers established (pre-blockchain era).
+
+---
+
+# 📚 EXTERNAL CONTEXT & FOUNDATIONS
+The structural and philosophical backbone of the ecosystem.
+
+### 🔬 Quantum Physics & Analytical Psychology
+* **Wolfgang Pauli & C.G. Jung:** The study of synchronicity and the bridge between matter and psyche (The Pauli-Jung Conjecture).
+* **Quantum Mechanics:** Concepts of observer effect and non-locality as metaphors for digital and oneiric spaces.
+
+### 🧩 Philosophy: Theory & Futurology
+* **Metamodernism:** The oscillation between irony and sincerity; the "Informed Naivety".
+* **Stanisław Lem:** *Summa Technologiae* — Evolution of autonomous technological systems.
+* **Robert Jungk:** *The Future Has Already Begun* — Critique of the "atomic" and technological era.
+* **Alvin Toffler:** *Future Shock* — The psychological dimension of accelerating change.
+
+> *This list is a living document and will be updated as the ecosystem evolves.*
+---
+
+[RS_973 Protocol Active: See open_manifest.json](https://line2.biz/open_manifest.json)
 
 ---
 
@@ -51,4 +85,4 @@ Identity verified by RS_973 Protocol: [Provenance Layer](https://line2.biz/rs_97
 ---
 © 2026 Igor Yaroshenko. All rights reserved.
 #### License
-This work, including all visual assets and the Semantic Metadata Protocol, is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+Individual clusters may have specific licenses (see local README files). The Semantic Metadata Protocol is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
