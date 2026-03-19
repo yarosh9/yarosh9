@@ -85,4 +85,6 @@ Identity verified by RS_973 Protocol: [Provenance Layer](https://line2.biz/rs_97
 ---
 © 2026 Igor Yaroshenko. All rights reserved.
 #### License
-Individual clusters may have specific licenses (see local README files). The Semantic Metadata Protocol is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+Individual clusters may have specific licenses (see local README files). 
+The **Semantic Metadata Protocol** is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). 
+The **SVG Gradient Library** (100+ units) is dedicated to the public domain under [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/).
