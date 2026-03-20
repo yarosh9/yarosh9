@@ -7,7 +7,7 @@
 ### by Igor Yaroshenko 
 [author verification](https://line2.biz/about_me.json) | [author bio](https://line2.biz/meta_art_concepts/yarosh9_bio.txt) | [author cv](https://line2.biz/meta_art_concepts/yarosh9_cv.txt)
 
-## "МЕТАМОДЕРН НАЧИНАЕТСЯ С МЕТАДАННЫХ"
+## "METAMODERN STARTS WITH METADATA"
 
 A cross-disciplinary laboratory exploring the intersections of visual linguistics, non-human perception, and dream-state cartography.
 
@@ -20,7 +20,7 @@ A cross-disciplinary laboratory exploring the intersections of visual linguistic
 A procedural laboratory for glitch-art synthesis and algorithmic gradients. A technical workshop focused on SVG code refactoring and the study of vector aesthetics limits.
 
 * **Core Data:** [GRDNT](https://github.com/yarosh9/grdnt/)
-* **Web Interface:** [grdnt web](https://yarosh9.github.io/grdnt/)
+* **Web Interface:** [grdnt web](https://yarosh9.github.io/grdnt/allgr.html)
 * **License** [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/)
 
 ### 01. CRYPTOPHASIA
