@@ -1,10 +1,13 @@
 ![Preview](g12.png)
 
-# MULTIMODAL ART ECOSYSTEM REPO
-### by Igor Yaroshenko 
-[author verification](https://line2.biz/about_me.json)
+# MULTIMODAL ART ECOSYSTEM | PROTOCOL RS_973
 
-[author bio](https://line2.biz/meta_art_concepts/yarosh9_bio.txt) | [author cv](https://line2.biz/meta_art_concepts/yarosh9_cv.txt)
+> Status: [ SC: 000 | SN: 000 ] | Node: [line2.biz/sarzhyn_yar/](line2.biz/sarzhyn_yar/)
+
+### by Igor Yaroshenko 
+[author verification](https://line2.biz/about_me.json) | [author bio](https://line2.biz/meta_art_concepts/yarosh9_bio.txt) | [author cv](https://line2.biz/meta_art_concepts/yarosh9_cv.txt)
+
+## "МЕТАМОДЕРН НАЧИНАЕТСЯ С МЕТАДАННЫХ"
 
 A cross-disciplinary laboratory exploring the intersections of visual linguistics, non-human perception, and dream-state cartography.
 
@@ -14,11 +17,11 @@ A cross-disciplinary laboratory exploring the intersections of visual linguistic
 
 ### 00. GRADIENTS LIBRARY
 **Focus:** Experimental Visual Mathematics & SVG Optimization
-A generative laboratory for glitch-art synthesis and algorithmic gradients. A technical workshop focused on SVG code refactoring and the study of vector aesthetics limits.
+A procedural laboratory for glitch-art synthesis and algorithmic gradients. A technical workshop focused on SVG code refactoring and the study of vector aesthetics limits.
 
 * **Core Data:** [GRDNT](https://github.com/yarosh9/grdnt/)
 * **Web Interface:** [grdnt web](https://yarosh9.github.io/grdnt/)
-* **Knowledge Base:** [grdnt wiki](https://github.com/yarosh9/grdnt/wiki/)
+* **License** [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/)
 
 ### 01. CRYPTOPHASIA
 **Focus:** Visual Linguistics & Informed Naive Encryption
@@ -28,6 +31,7 @@ A technical and aesthetic response to state control. Utilizing the "Informed Nai
 * **Web Interface:** [cryptophasia web](https://yarosh9.github.io/CRYPTOPHASIA/)
 * **Knowledge Base:** [cryptophasia wiki](https://github.com/yarosh9/CRYPTOPHASIA/wiki/)
 * **Provenance Layer:** [cryptophasia l2b](https://line2.biz/cryptophasia/)
+* **License** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ### 02. NON_ANTHROPOMORPHIC
 **Focus:** Post-Anthropocentric Visual Systems
@@ -35,8 +39,8 @@ A departure from human-centric vision. Exploration of non-human perception (corv
 
 * **Core Data:** [NON_ANTHROPOMORPHIC](https://github.com/yarosh9/NON_ANTHROPOMORPHIC/)
 * **Web Interface:** [non_anthropomorphic web](https://yarosh9.github.io/non_anthropomorphic/)
-* **Knowledge Base:** [non_anthropomorphic wiki](https://github.com/yarosh9/NON_ANTHROPOMORPHIC/wiki/)
 * **Provenance Layer:** [non_anthropomorphic l2b](https://line2.biz/non_anthropomorphic/)
+* **License** [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/)
 
 ### 03. SARZHYN_YAR
 **Focus:** Oneiric Cartography & Vector Metaphysics
@@ -44,9 +48,8 @@ Technical mapping of dream-state architecture and inter-species interaction zone
 
 * **Core Data:** [SARZHYN_YAR](https://github.com/yarosh9/SARZHYN_YAR/)
 * **Web Interface:** [sarzhyn_yar web](https://yarosh9.github.io/SARZHYN_YAR/)
-* **Knowledge Base:** [sarzhyn_yar wiki](https://github.com/yarosh9/SARZHYN_YAR/wiki/)
 * **Provenance Layer:** [sarzhyn_yar l2b](https://line2.biz/sarzhyn_yar)
-
+* **License** [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/)
 ---
 
 ## 📜 LOG: EVOLUTIONARY STRATA
