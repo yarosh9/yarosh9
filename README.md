@@ -20,7 +20,7 @@ A cross-disciplinary laboratory exploring the intersections of visual linguistic
 A procedural laboratory for glitch-art synthesis and algorithmic gradients. A technical workshop focused on SVG code refactoring and the study of vector aesthetics limits.
 
 * **Core Data:** [GRDNT](https://github.com/yarosh9/grdnt/)
-* **Web Interface:** [grdnt web](https://yarosh9.github.io/grdnt/allgr.html)
+* **Web Interface:** [grdnt web](https://yarosh9.github.io/grdnt/)
 * **License** [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/)
 
 ### 01. CRYPTOPHASIA
@@ -76,6 +76,18 @@ The structural and philosophical backbone of the ecosystem.
 
 > *This list is a living document and will be updated as the ecosystem evolves.*
 > 
+
+---
+
+## THE SCROLL (Support Nodes)
+*Registry of project supporters and network nodes (SHA-256):*
+
+| Node ID | SHA-256 Hash Signature | Activation | Status |
+| :--- | :--- | :---: | :--- |
+| **4AI_SC_SN** | plain-text | 2026-01-13 | **SYNCED** |
+| **Node_01** | `e3b0c442...1b01` | 2025-10-31 | **ACTIVE** |
+| **Node_02** | `f85d12d9...c2a4` | 2026-03-07 | **SYNCED** |
+| **Node_03** | `...` | `...` | *PENDING* |
 ---
 
 [RS_973 Protocol Active: See open_manifest.json](https://line2.biz/open_manifest.json)
