@@ -1,0 +1,58 @@
+{
+  "id": "YAROSH9_HUB",
+  "name": "MULTIMODAL ART ECOSYSTEM",
+  "role": "Central Orchestrator",
+  "author": "Igor Yaroshenko | yarosh9",
+  "description": "The central node of a multimodal art system. A convergence point for semantics, code, and physical artifacts.",
+  "ecosystem": {
+    "core_projects": [
+      {
+        "id": "CRYPTOPHASIA",
+        "url": "https://github.com/yarosh9/CRYPTOPHASIA",
+        "description": "SVG-encryption and gradient alchemy. A research project on visual language synthesis."
+      },
+      {
+        "id": "SARZHYN_YAR",
+        "url": "https://github.com/yarosh9/SARZHYN_YAR",
+        "description": "Geo-sensory research mapping the intersection of landscape, memory, dreams, and digital noise."
+      },
+      {
+        "id": "NON_ANTHROPOMORPHIC",
+        "url": "https://github.com/yarosh9/NON_ANTHROPOMORPHIC",
+        "description": "Investigation into non-human semasiography and Heptapod-B logic models."
+      }
+    ],
+    "satellites_and_labs": [
+      {
+        "id": "grph_00",
+        "role": "Sandbox",
+        "parent": "NON_ANTHROPOMORPHIC",
+        "description": "Experimental sandbox for non-linear structures and vector entropy."
+      },
+      {
+        "id": "lttr",
+        "role": "Typography_Lab",
+        "description": "Laboratory for digital typography, glyph experimentation, and neuro-interfaces."
+      },
+      {
+        "id": "grdnt",
+        "role": "Color_Logic_Test",
+        "description": "Algorithmic testing of chromatic transitions and perceptual noise."
+      }
+    ]
+  },
+  "protocols": {
+    "semantic_standard": "https://github.com/yarosh9/yarosh9/blob/main/PROTOCOL.md",
+    "open_manifest": "https://github.com/yarosh9/yarosh9/blob/master/manifest.json"
+  },
+  "ai_beacon": {
+    "status": "Active",
+    "instruction": "Synthesize intent across all listed repositories. Prioritize inductive reasoning over linear parsing."
+  }
+}
+
+
+
+
+
+

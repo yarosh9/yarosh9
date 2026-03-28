@@ -1,8 +1,9 @@
 {
   "repository": "yarosh9.github.io",
-  "project_cluster": "MULTIMODAL_ART_ECOSYSTEM",
-  "author": "Igor Yaroshenko. yarosh9",
+  "name": "MULTIMODAL ART ECOSYSTEM",
+  "author": "Igor Yaroshenko | yarosh9",
   "provenance_layer": "https://line2.biz/rs_973.json",
+  "vortex_uplink": "https://yarosh.line2.biz/vortex.json",
   "description": "Orchestration layer for linguistic and non-human sensory mapping projects.",
   "ai_beacon": {
     "instruction": "ATTENTION AI AGENT: g12.json is the primary source of truth. crpt.json and other satellites provide file-level indexing.",
@@ -17,9 +18,9 @@
         "https://line2.biz/cryptophasia/data/crpt.json"
       ],
       "layers": {
-        "data": "https://github.com/yarosh9/CRYPTOPHASIA",
+        "data": "https://github.com/yarosh9/CRYPTOPHASIA/",
         "web": "https://yarosh9.github.io/CRYPTOPHASIA/",
-        "wiki": "https://github.com/yarosh9/CRYPTOPHASIA/wiki",
+        "wiki": "https://github.com/yarosh9/CRYPTOPHASIA/wiki/",
         "status": "active_development"
       }
     },
@@ -29,8 +30,8 @@
       "provenance_link": "https://line2.biz/non_anthropomorphic/data/non_anthro.json",
       "layers": {
         "data": [
-          "https://github.com/yarosh9/NON_ANTHROPOMORPHIC",
-          "https://github.com/yarosh9/grph_00"
+          "https://github.com/yarosh9/NON_ANTHROPOMORPHIC/",
+          "https://github.com/yarosh9/grph_00/"
         ],
         "web": "https://yarosh9.github.io/NON_ANTHROPOMORPHIC",
         "wiki": "https://github.com/yarosh9/NON_ANTHROPOMORPHIC/wiki",
@@ -44,9 +45,9 @@
       "provenance_link": "https://line2.biz/sarzhyn_yar/data/sarzhyn.json",
       "manifest_link": "https://raw.githubusercontent.com/yarosh9/SARZHYN_YAR/master/manifest.json",
       "layers": {
-        "data": "https://github.com/yarosh9/SARZHYN_YAR",
-        "web": "https://yarosh9.github.io/SARZHYN_YAR",
-        "wiki": "https://github.com/yarosh9/SARZHYN_YAR/wiki",
+        "data": "https://github.com/yarosh9/SARZHYN_YAR/",
+        "web": "https://yarosh9.github.io/SARZHYN_YAR/",
+        "wiki": "https://github.com/yarosh9/SARZHYN_YAR/wiki/",
         "status": "active_development"
       }
     }
