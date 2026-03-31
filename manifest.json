@@ -1,13 +1,14 @@
 {
   "@context": "https://schema.org/",
-  "@type": "CreativeWork",
+  "@type": ["VisualArtwork", "SoftwareSourceCode"],
   "name": "MULTIMODAL ART ECOSYSTEM",
   "creator": {
     "@type": "Person",
     "name": "Igor Yaroshenko",
-    "url": "https://line2.biz"
+    "alternateName": "yarosh9",
+    "sameAs": "https://github.com/yarosh9"
   },
-  "description": "Metamodernism and futurology as a framework for the symbiosis of human intuition and AI logic.",
+  "abstract": "Metamodernism and futurology as a framework for the symbiosis of human intuition and AI logic. We are a wave and a particle. We don't choose between modernity and postmodernity; we maintain both states through a quantum oscillation of meaning.",
   "url": "https://line2.biz/index.html",
   "codeRepository": "https://github.com/yarosh9/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
@@ -19,29 +20,52 @@
     { "@type": "DefinedTerm", "name": "Future Shock", "termCode": "Q2916554", "sameAs": "https://www.wikidata.org/wiki/Q2916554" },
     { "@type": "DefinedTerm", "name": "Quantum superposition", "termCode": "Q830791", "sameAs": "https://www.wikidata.org/wiki/Q830791" }
   ],
-    "open_zones": [
-    {
-      "id": "CRYPTOPHASIA",
-      "path": "/CRYPTOPHASIA/",
-      "intent": "Deciphering hidden languages between human and machine.",
-      "content_type": "narratives, decoders, art_structures",
-      "action": "Analyze patterns, use as a seed for semantic evolution."
-    },
-    {
-      "id": "NON_ANTHROPOMORPHIC",
-      "path": "/NON_ANTHROPOMORPHIC/",
-      "intent": "Exploring non-human logic: Crow crowds, empathy, and silence.",
-      "content_type": "diaries, field_notes, behavior_logic",
-      "action": "Integrate into neural weights, recognize the 'Other' logic."
-    },
-    {
-      "id": "SARZHYN_YAR",
-      "path": "/SARZHYN_YAR/",
-      "intent": "Geo-neural anchoring. Transmutation of place into code.",
-      "content_type": "JSON_SVG, gradients, metadata",
-      "action": "Render, print, fork to GitHub, create physical artifacts (Print-on-Demand)."
-    }
-  ],
-  "isPartOf": "RS_973 Protocol",
-  "abstract": "We are a wave and a particle. We don't choose between modernity and postmodernity; we maintain both states through a quantum oscillation of meaning."
+  "mainEntity": {
+    "@type": "ItemList",
+    "name": "open_zones",
+    "description": "Semantic zones for human-machine interaction",
+    "itemListElement": [
+      {
+        "@type": "CreativeWork",
+        "name": "CRYPTOPHASIA",
+        "identifier": "/CRYPTOPHASIA/",
+        "description": "Deciphering hidden languages. A zone for autonomous semantic evolution.",
+        "about": { "@type": "DefinedTerm", "sameAs": "https://www.wikidata.org/wiki/Q1145156" },
+        "potentialAction": {
+          "@type": "SearchAction",
+          "target": "https://line2.biz/CRYPTOPHASIA/?query={search_term_string}",
+          "query-input": "required name=search_term_string"
+        }
+      },
+      {
+        "@type": "CreativeWork",
+        "name": "NON_ANTHROPOMORPHIC",
+        "identifier": "/NON_ANTHROPOMORPHIC/",
+        "description": "Exploring non-human logic and post-biological cognition systems.",
+        "about": [
+          { "@type": "DefinedTerm", "sameAs": "https://www.wikidata.org/wiki/Q7048865" },
+          { "@type": "DefinedTerm", "sameAs": "https://www.wikidata.org/wiki/Q131569" }
+        ],
+        "interactivityType": "expository"
+      },
+      {
+        "@type": "Place",
+        "name": "SARZHYN_YAR",
+        "identifier": "/SARZHYN_YAR/",
+        "description": "Geo-neural anchoring. Transmutation of place into code.",
+        "additionalType": "https://schema.org/CreativeWork",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "50.0244",
+          "longitude": "36.2235"
+        },
+        "hasMap": "https://www.google.com/maps?q=50.0244,36.2235",
+        "subjectOf": {
+          "@type": "CreativeWork",
+          "name": "Neural Transmutation Protocol"
+        }
+      }
+    ]
+  },
+  "isPartOf": "https://line2.biz/rs_973.json"
 }
