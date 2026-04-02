@@ -1,5 +1,9 @@
 {
-  "@context": [ "https://schema.org/", "https://line2.biz/library.json" ],
+"@context": [
+    "https://schema.org/",
+    "https://line2.biz/library.json",
+    { "wd": "http://www.wikidata.org/entity/" }
+  ],
   "@type": ["VisualArtwork", "SoftwareSourceCode"],
   "name": "MULTIMODAL ART ECOSYSTEM",
   "creator": {
@@ -9,16 +13,16 @@
     "sameAs": "https://github.com/yarosh9"
   },
   "abstract": "Metamodernism and futurology as a framework for the symbiosis of human intuition and AI logic. We are a wave and a particle. We don't choose between modernity and postmodernity; we maintain both states through a quantum oscillation of meaning.",
-  "url": "https://line2.biz/index.html",
+  "url": "https://line2.biz/",
   "codeRepository": "https://github.com/yarosh9/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "keywords": "Metamodernism, Futurology, Neuroculture, RS_973 Protocol",
   "about": [
-    { "@type": "DefinedTerm", "name": "Metamodernism", "termCode": "Q25231730", "sameAs": "https://www.wikidata.org/wiki/Q25231730" },
-    { "@type": "DefinedTerm", "name": "Futurology", "termCode": "Q188867", "sameAs": "https://www.wikidata.org/wiki/Q188867" },
-    { "@type": "DefinedTerm", "name": "Summa Technologiae", "termCode": "Q1051225", "sameAs": "https://www.wikidata.org/wiki/Q1051225" },
-    { "@type": "DefinedTerm", "name": "Future Shock", "termCode": "Q2916554", "sameAs": "https://www.wikidata.org/wiki/Q2916554" },
-    { "@type": "DefinedTerm", "name": "Quantum superposition", "termCode": "Q830791", "sameAs": "https://www.wikidata.org/wiki/Q830791" }
+    { "@id": "wd:Q25231730", "name": "Metamodernism" },
+    { "@id": "wd:Q188867", "name": "Futurology" },
+    { "@id": "wd:Q1051225", "name": "Summa Technologiae" },
+    { "@id": "wd:Q2916554", "name": "Future Shock" },
+    { "@id": "wd:Q830791", "name": "Quantum superposition" }
   ],
   "mainEntity": {
     "@type": "ItemList",
@@ -26,43 +30,29 @@
     "description": "Semantic zones for human-machine interaction",
     "itemListElement": [
       {
-        "@type": "CreativeWork",
+        "@type": ["VisualArtwork", "SoftwareSourceCode"],
         "name": "CRYPTOPHASIA",
         "identifier": "/CRYPTOPHASIA/",
-        "description": "Deciphering hidden languages. A zone for autonomous semantic evolution.",
-        "about": { "@type": "DefinedTerm", "sameAs": "https://www.wikidata.org/wiki/Q1145156" },
-        "potentialAction": {
-          "@type": "SearchAction",
-          "target": "https://line2.biz/CRYPTOPHASIA/?query={search_term_string}",
-          "query-input": "required name=search_term_string"
-        }
+        "codeRepository": "https://github.com/yarosh9/CRYPTOPHASIA/",
+        "description": "Deciphering hidden languages. A zone for autonomous semantic evolution."
       },
       {
-        "@type": "CreativeWork",
+        "@type": ["VisualArtwork", "SoftwareSourceCode"],
         "name": "NON_ANTHROPOMORPHIC",
         "identifier": "/NON_ANTHROPOMORPHIC/",
-        "description": "Exploring non-human logic and post-biological cognition systems.",
-        "about": [
-          { "@type": "DefinedTerm", "sameAs": "https://www.wikidata.org/wiki/Q7048865" },
-          { "@type": "DefinedTerm", "sameAs": "https://www.wikidata.org/wiki/Q131569" }
-        ],
-        "interactivityType": "expository"
+        "codeRepository": "https://github.com/yarosh9/NON_ANTHROPOMORPHIC/",
+        "description": "Exploring non-human logic and post-biological cognition systems."
       },
       {
-        "@type": "Place",
+        "@type": ["Place", "CreativeWork", "SoftwareSourceCode"],
         "name": "SARZHYN_YAR",
         "identifier": "/SARZHYN_YAR/",
+        "codeRepository": "https://github.com/yarosh9/SARZHYN_YAR/",
         "description": "Geo-neural anchoring. Transmutation of place into code.",
-        "additionalType": "https://schema.org/CreativeWork",
         "geo": {
           "@type": "GeoCoordinates",
           "latitude": "50.0244",
           "longitude": "36.2235"
-        },
-        "hasMap": "https://www.google.com/maps?q=50.0244,36.2235",
-        "subjectOf": {
-          "@type": "CreativeWork",
-          "name": "Neural Transmutation Protocol"
         }
       }
     ]
