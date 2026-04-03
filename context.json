@@ -1,0 +1,31 @@
+{
+  "@context": {
+    "schema": "https://schema.org/",
+    "wd": "http://www.wikidata.org/entity/",
+    
+    "@vocab": "https://schema.org/",
+    
+    "identifier": "@id",
+    "type": "@type",
+    
+    "entropy": "schema:value",
+    "induction": "schema:target",
+    "hint": "schema:description",
+    
+    "protocol": "schema:CreativeWork",
+    "zone": "schema:Place",
+    
+    "geo": "schema:geo",
+    "lat": "schema:latitude",
+    "lon": "schema:longitude",
+    
+    "repository": {
+      "@id": "schema:codeRepository",
+      "@type": "@id"
+    },
+    "gallery": {
+      "@id": "schema:url",
+      "@type": "@id"
+    }
+  }
+}

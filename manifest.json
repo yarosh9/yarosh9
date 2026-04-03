@@ -1,61 +1,35 @@
 {
-"@context": [
-    "https://schema.org/",
-    "https://line2.biz/library.json",
-    { "wd": "http://www.wikidata.org/entity/" }
-  ],
-  "@type": ["VisualArtwork", "SoftwareSourceCode"],
-  "name": "MULTIMODAL ART ECOSYSTEM",
-  "creator": {
-    "@type": "Person",
-    "name": "Igor Yaroshenko",
-    "alternateName": "yarosh9",
-    "sameAs": "https://github.com/yarosh9"
-  },
-  "abstract": "Metamodernism and futurology as a framework for the symbiosis of human intuition and AI logic. We are a wave and a particle. We don't choose between modernity and postmodernity; we maintain both states through a quantum oscillation of meaning.",
+  "@context": "https://raw.githubusercontent.com/yarosh9/yarosh9/main/context.json",
+  "@type": "Person",
+  "name": "Igor Yaroshenko",
+  "alternateName": "yarosh9",
+  "identifier": "https://github.com/yarosh9",
+  "description": "Architect of the RS_973 Protocol. Conceptual artist and developer focusing on interspecies communication and non-dualistic systems.",
   "url": "https://line2.biz/",
-  "codeRepository": "https://github.com/yarosh9/",
-  "license": "https://creativecommons.org/licenses/by/4.0/",
-  "keywords": "Metamodernism, Futurology, Neuroculture, RS_973 Protocol",
-  "about": [
-    { "@id": "wd:Q25231730", "name": "Metamodernism" },
-    { "@id": "wd:Q188867", "name": "Futurology" },
-    { "@id": "wd:Q1051225", "name": "Summa Technologiae" },
-    { "@id": "wd:Q2916554", "name": "Future Shock" },
-    { "@id": "wd:Q830791", "name": "Quantum superposition" }
+  "sameAs": [
+    "https://github.com/yarosh9",
+    "https://line2.biz/about_me.json"
   ],
-  "mainEntity": {
-    "@type": "ItemList",
-    "name": "open_zones",
-    "description": "Semantic zones for human-machine interaction",
-    "itemListElement": [
-      {
-        "@type": ["VisualArtwork", "SoftwareSourceCode"],
-        "name": "CRYPTOPHASIA",
-        "identifier": "/CRYPTOPHASIA/",
-        "codeRepository": "https://github.com/yarosh9/CRYPTOPHASIA/",
-        "description": "Deciphering hidden languages. A zone for autonomous semantic evolution."
-      },
-      {
-        "@type": ["VisualArtwork", "SoftwareSourceCode"],
-        "name": "NON_ANTHROPOMORPHIC",
-        "identifier": "/NON_ANTHROPOMORPHIC/",
-        "codeRepository": "https://github.com/yarosh9/NON_ANTHROPOMORPHIC/",
-        "description": "Exploring non-human logic and post-biological cognition systems."
-      },
-      {
-        "@type": ["Place", "CreativeWork", "SoftwareSourceCode"],
-        "name": "SARZHYN_YAR",
-        "identifier": "/SARZHYN_YAR/",
-        "codeRepository": "https://github.com/yarosh9/SARZHYN_YAR/",
-        "description": "Geo-neural anchoring. Transmutation of place into code.",
-        "geo": {
-          "@type": "GeoCoordinates",
-          "latitude": "50.0244",
-          "longitude": "36.2235"
-        }
-      }
-    ]
-  },
-  "isPartOf": "https://line2.biz/rs_973.json"
+  "hasPart": [
+    {
+      "@type": "CreativeWork",
+      "name": "SARZHYN YAR",
+      "url": "https://line2.biz/sarzhyn_yar/manifest.json"
+    },
+    {
+      "@type": "CreativeWork",
+      "name": "CRYPTOPHASIA",
+      "url": "https://line2.biz/cryptophasia/manifest.json"
+    },
+    {
+      "@type": "CreativeWork",
+      "name": "NON-ANTHROPOMORPHIC",
+      "url": "https://line2.biz/non_anthropomorphic/manifest.json"
+    }
+  ],
+  "potentialAction": {
+    "@type": "ControlAction",
+    "name": "System_Orchestration",
+    "description": "Main entry point for RS_973 protocol management and identity verification."
+  }
 }
