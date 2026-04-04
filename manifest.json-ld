@@ -29,10 +29,14 @@
   ],
   "about": [
     { "@id": "wd:Q3380771", "name": "metamodernism" },
+    { "@id": "wd:Q180160", "name": "metadata" },
+    { "@id": "wd:Q138040342", "name": "Metamodernism: The Future of Theory" },
     { "@id": "wd:Q830791", "name": "quantum superposition" },
     { "@id": "wd:Q188867", "name": "futures studies" },
     { "@id": "wd:Q1051225", "name": "Summa Technologiae" },
     { "@id": "wd:Q2916554", "name": "Future Shock" },
+    { "@id": "wd:Q860372", "name": "digital art" },
+    { "@id": "wd:Q39162", "name": "open source" },
     { "@id": "wd:Q50641", "name": "history of art" }
   ],
   "potentialAction": {
