@@ -1,16 +1,35 @@
 {
-  "@context": "https://github.com/yarosh9/yarosh9/blob/df561ab5281cee96b554e3d9c86e93d41e72b0ab/context.jsonld",
-  "@type": "Person",
-  "name": "Igor Yaroshenko",
-  "alternateName": "yarosh9",
-  "identifier": "https://github.com/yarosh9",
+  "@context": "https://raw.githubusercontent.com/yarosh9/yarosh9/df561ab5281cee96b554e3d9c86e93d41e72b0ab/context.jsonld",
+  "@type": ["VisualArtwork", "SoftwareSourceCode"],
+  "name": "MULTIMODAL ART ECOSYSTEM",
+  "identifier": "/YAROSH9/",
   "description": "Architect of the RS_973 Protocol. Conceptual artist and developer focusing on interspecies communication and non-dualistic systems.",
-  "url": "https://line2.biz/",
-  "sameAs": [
-    "https://github.com/yarosh9",
-    "https://line2.biz/about_me.json"
+  "keywords": [
+    "Igor Yaroshenko",
+    "RS_973 protocol",
+    "Vector Alchemy",
+    "Metamodernism",
+    "Futures Studies",
+    "Digital Art Laboratory",
+    "SVG Gradients",
+    "Semantic Web",
+    "Sarzhyn Yar"
   ],
+  "url": "https://line2.biz/",
+  "programmingLanguage": "SVG, JSON-LD",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "creator": {
+    "@type": "Person",
+    "@id": "https://line2.biz/about_me.json",
+    "name": "Igor Yaroshenko | yarosh9",
+    "sameAs": "https://github.com/yarosh9"
+    },
   "hasPart": [
+    {
+      "@type": "CreativeWork",
+      "name": "META ART CONCEPTS",
+      "url": "https://line2.biz/manifest.json"
+    },
     {
       "@type": "CreativeWork",
       "name": "SARZHYN YAR",

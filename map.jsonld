@@ -7,23 +7,33 @@
   "mainEntityOfPage": "https://line2.biz/rs_973.json",
   "creator": {
     "@id": "https://github.com/yarosh9",
-    "name": "Igor Yaroshenko"
+    "name": "Igor Yaroshenko | yarosh9"
   },
   "dataset": [
     {
       "@type": "Dataset",
-      "name": "SARZHYN YAR Core Data",
-      "url": "https://line2.biz/sarzhyn_yar/manifest.json"
+      "name": "SARZHYN YAR Layer",
+      "url": "https://line2.biz/sarzhyn_yar/manifest.json",
+      "repo": "https://github.com/yarosh9/SARZHYN_YAR/",
+      "wiki": "https://github.com/yarosh9/SARZHYN_YAR/wiki",
+      "gallery": "https://yarosh9.github.io/SARZHYN_YAR/index.html"
     },
     {
       "@type": "Dataset",
       "name": "NON-ANTHROPOMORPHIC Layer",
-      "url": "https://line2.biz/non_anthropomorphic/manifest.json"
+      "url": "https://line2.biz/non_anthropomorphic/manifest.json",
+      "repo": "https://github.com/yarosh9/NON-ANTHROPOMORPHIC/",
+      "wiki": "https://github.com/yarosh9/NON-ANTHROPOMORPHIC/wiki",
+      "gallery": "https://yarosh9.github.io/NON-ANTHROPOMORPHIC/index.html"
+
     },
     {
       "@type": "Dataset",
       "name": "CRYPTOPHASIA Layer",
-      "url": "https://line2.biz/cryptophasia/manifest.json"
+      "url": "https://line2.biz/cryptophasia/manifest.json",
+      "repo": "https://github.com/yarosh9/CRYPTOPHASIA/",
+      "wiki": "https://github.com/yarosh9/CRYPTOPHASIA/wiki",
+      "gallery": "https://yarosh9.github.io/CRYPTOPHASIA/index.html"
     },
     {
       "@type": "Dataset",

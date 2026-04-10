@@ -9,23 +9,11 @@
     "type": "@type",
     
     "entropy": "schema:value",
-    "induction": "schema:target",
-    "hint": "schema:description",
-    
     "protocol": "schema:CreativeWork",
-    "zone": "schema:Place",
+    "induction": "schema:target",
     
-    "geo": "schema:geo",
-    "lat": "schema:latitude",
-    "lon": "schema:longitude",
-    
-    "repository": {
-      "@id": "schema:codeRepository",
-      "@type": "@id"
-    },
-    "gallery": {
-      "@id": "schema:url",
-      "@type": "@id"
-    }
+    "wiki": { "@id": "schema:usageInfo", "@type": "@id" },
+    "repo": { "@id": "schema:codeRepository", "@type": "@id" },
+    "gallery": { "@id": "schema:url", "@type": "@id" }
   }
 }
