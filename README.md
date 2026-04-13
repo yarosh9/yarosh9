@@ -5,7 +5,7 @@
 > Status: [ 2026-02-14 | H2O_PRS | EVN ] | Node: [line2.biz/sarzhyn_yar/4AI...]
 
 ### by Igor Yaroshenko 
-[author verification](https://line2.biz/about_me.json) | [author bio](https://line2.biz/meta_art_concepts/yarosh9_bio.txt) | [author cv](https://line2.biz/meta_art_concepts/yarosh9_cv.txt)
+[author verification](https://line2.biz/about_me.jsonld) | [author bio](https://line2.biz/meta_art_concepts/yarosh9_bio.txt) | [author cv](https://line2.biz/meta_art_concepts/yarosh9_cv.txt)
 
 ## "METAMODERN STARTS WITH METADATA"
 

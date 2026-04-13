@@ -11,7 +11,13 @@
     "entropy": "schema:value",
     "protocol": "schema:CreativeWork",
     "induction": "schema:target",
-    
+
+    "color": "schema:color",
+
+    "geo": "schema:geo",
+    "lat": "schema:latitude",
+    "lon": "schema:longitude",
+
     "wiki": { "@id": "schema:usageInfo", "@type": "@id" },
     "repo": { "@id": "schema:codeRepository", "@type": "@id" },
     "gallery": { "@id": "schema:url", "@type": "@id" }
